@@ -1,10 +1,7 @@
 <img width="1030" height="491" alt="rini" src="https://github.com/user-attachments/assets/d3d48c23-d30a-40a8-ae32-85d4c567b258" />
 
-
-Hi there, I'm Farzana Mahamud Rini
-
 ### 🙋🏻‍♀️ About Me
-A Data enthusiast specializing in analysis, modeling, and visualization — bridging data to decisions.
+Hi there, I'm Farzana Mahamud Rini, a Data enthusiast specializing in analysis, modeling, and visualization — bridging data to decisions.
 
 ### 📚 Projects  
 Welcome to my portfolio, where I showcase some of my key projects and hands-on work.  
