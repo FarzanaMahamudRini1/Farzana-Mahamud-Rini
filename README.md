@@ -1,10 +1,4 @@
-<div style="border-radius: 10px; border: 1px solid #e0e0e0; overflow: hidden; width: 300px; height: 600px;">
-  <img 
-    src="https://raw.githubusercontent.com/yourusername/repo-name/main/assets/rini.jpg" 
-    alt="rini" 
-    style="width: 100%; height: 100%; object-fit: cover; display: block;"
-  />
-</div>
+<img width="1030" height="491" alt="rini" src="https://github.com/user-attachments/assets/d3d48c23-d30a-40a8-ae32-85d4c567b258" />
 
 
 Hi there, I'm Farzana Mahamud Rini
