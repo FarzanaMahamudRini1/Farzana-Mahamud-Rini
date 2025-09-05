@@ -1,6 +1,11 @@
 <div style="border-radius: 10px; border: 1px solid #e0e0e0; overflow: hidden; width: 300px; height: 600px;">
-  <img src="https://github.com/user-attachments/assets/c755a655-801a-41d8-b1ae-bcc101d3b085" alt="rini" style="width: 100%; height: 100%; object-fit: cover;"/>
+  <img 
+    src="https://raw.githubusercontent.com/yourusername/repo-name/main/assets/rini.jpg" 
+    alt="rini" 
+    style="width: 100%; height: 100%; object-fit: cover; display: block;"
+  />
 </div>
+
 
 Hi there, I'm Farzana Mahamud Rini
 
