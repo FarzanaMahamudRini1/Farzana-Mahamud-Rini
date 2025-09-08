@@ -21,7 +21,6 @@ Welcome to my portfolio, where I showcase some of my key projects and hands-on w
 ## 💼 CRM & Business Systems
 
 [![CRM-System Development](https://github-readme-stats.vercel.app/api/pin/?username=FarzanaMahamudRini1&repo=CRM-System-Development-for-Fashion-Retailer-&theme=tokyonight)](https://github.com/FarzanaMahamudRini1/CRM-System-Development-for-Fashion-Retailer-)
-
 [![API Call in CRM](https://github-readme-stats.vercel.app/api/pin/?username=FarzanaMahamudRini1&repo=API-Call-in-a-CRM-system&theme=tokyonight)](https://github.com/FarzanaMahamudRini1/API-Call-in-a-CRM-system)
 
 ---
@@ -29,7 +28,6 @@ Welcome to my portfolio, where I showcase some of my key projects and hands-on w
 ## 🏥 Healthcare & Process Optimization
 
 [![EMR Database Development](https://github-readme-stats.vercel.app/api/pin/?username=FarzanaMahamudRini1&repo=EMR-Database-Development&theme=tokyonight)](https://github.com/FarzanaMahamudRini1/EMR-Database-Development)
-
 [![Systems Analysis and Process Optimization](https://github-readme-stats.vercel.app/api/pin/?username=FarzanaMahamudRini1&repo=Systems-Analysis-and-Process-Optimization&theme=tokyonight)](https://github.com/FarzanaMahamudRini1/Systems-Analysis-and-Process-Optimization)
 
 ---
