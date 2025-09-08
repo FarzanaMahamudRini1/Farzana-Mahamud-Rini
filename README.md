@@ -18,16 +18,31 @@ Welcome to my portfolio, where I showcase some of my key projects and hands-on w
 
 ### 💻 Check out these Repos
 
-[![API‑Call in a CRM system](https://github-readme-stats.vercel.app/api/pin/?username=FarzanaMahamudRini1&repo=API-Call-in-a-CRM-system&bg_color=eeeeee&title_color=333333&text_color=555555&icon_color=888888)](https://github.com/FarzanaMahamudRini1/API-Call-in-a-CRM-system)
+## 💼 CRM & Business Systems
 
-[![Systems Analysis and Process Optimization](https://github-readme-stats.vercel.app/api/pin/?username=FarzanaMahamudRini1&repo=Systems-Analysis-and-Process-Optimization&bg_color=eeeeee&title_color=333333&text_color=555555&icon_color=888888)](https://github.com/FarzanaMahamudRini1/Systems-Analysis-and-Process-Optimization)
+[![CRM-System Development](https://github-readme-stats.vercel.app/api/pin/?username=FarzanaMahamudRini1&repo=CRM-System-Development-for-Fashion-Retailer-&theme=tokyonight)](https://github.com/FarzanaMahamudRini1/CRM-System-Development-for-Fashion-Retailer-)
 
-[![Network Design](https://github-readme-stats.vercel.app/api/pin/?username=FarzanaMahamudRini1&repo=Network-Design&bg_color=eeeeee&title_color=333333&text_color=555555&icon_color=888888)](https://github.com/FarzanaMahamudRini1/Network-Design)
+[![API Call in CRM](https://github-readme-stats.vercel.app/api/pin/?username=FarzanaMahamudRini1&repo=API-Call-in-a-CRM-system&theme=tokyonight)](https://github.com/FarzanaMahamudRini1/API-Call-in-a-CRM-system)
 
-[![CRM-System Development for Fashion Retailer](https://github-readme-stats.vercel.app/api/pin/?username=FarzanaMahamudRini1&repo=CRM-System-Development-for-Fashion-Retailer-&bg_color=eeeeee&title_color=333333&text_color=555555&icon_color=888888)](https://github.com/FarzanaMahamudRini1/CRM-System-Development-for-Fashion-Retailer-)
+---
 
-[![EMR Database Development](https://github-readme-stats.vercel.app/api/pin/?username=FarzanaMahamudRini1&repo=EMR-Database-Development&bg_color=eeeeee&title_color=333333&text_color=555555&icon_color=888888)](https://github.com/FarzanaMahamudRini1/EMR-Database-Development)
+## 🏥 Healthcare & Process Optimization
 
-[![Automated Legal Management System](https://github-readme-stats.vercel.app/api/pin/?username=FarzanaMahamudRini1&repo=Automated-Legal-Management-System&bg_color=eeeeee&title_color=333333&text_color=555555&icon_color=888888)](https://github.com/FarzanaMahamudRini1/Automated-Legal-Management-System)
+[![EMR Database Development](https://github-readme-stats.vercel.app/api/pin/?username=FarzanaMahamudRini1&repo=EMR-Database-Development&theme=tokyonight)](https://github.com/FarzanaMahamudRini1/EMR-Database-Development)
+
+[![Systems Analysis and Process Optimization](https://github-readme-stats.vercel.app/api/pin/?username=FarzanaMahamudRini1&repo=Systems-Analysis-and-Process-Optimization&theme=tokyonight)](https://github.com/FarzanaMahamudRini1/Systems-Analysis-and-Process-Optimization)
+
+---
+
+## ⚖️ Legal Automation
+
+[![Automated Legal Management System](https://github-readme-stats.vercel.app/api/pin/?username=FarzanaMahamudRini1&repo=Automated-Legal-Management-System&theme=tokyonight)](https://github.com/FarzanaMahamudRini1/Automated-Legal-Management-System)
+
+---
+
+## 🌐 Network & Infrastructure
+
+[![Network Design](https://github-readme-stats.vercel.app/api/pin/?username=FarzanaMahamudRini1&repo=Network-Design&theme=tokyonight)](https://github.com/FarzanaMahamudRini1/Network-Design)
+
 
 
