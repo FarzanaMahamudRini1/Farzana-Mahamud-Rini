@@ -22,7 +22,7 @@ Welcome to my portfolio, where I showcase some of my key projects and hands-on w
 
 [![CRM-System Development](https://github-readme-stats.vercel.app/api/pin/?username=FarzanaMahamudRini1&repo=CRM-System-Development-for-Fashion-Retailer-&theme=tokyonight)](https://github.com/FarzanaMahamudRini1/CRM-System-Development-for-Fashion-Retailer-)
 [![API Call in CRM](https://github-readme-stats.vercel.app/api/pin/?username=FarzanaMahamudRini1&repo=API-Call-in-a-CRM-system&theme=tokyonight)](https://github.com/FarzanaMahamudRini1/API-Call-in-a-CRM-system)
-[![IGT-Game-Performance-Analysis-Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=FarzanaMahamudRini1&repo=CRM-System-Development-for-Fashion-Retailer-&theme=tokyonight)](https://github.com/FarzanaMahamudRini1/IGT-Game-Performance-Analysis-Dashboard)
+[![IGT-Game-Performance-Analysis-Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=FarzanaMahamudRini1&repo=IGT-Game-Performance-Analysis-Dashboard-&theme=tokyonight)](https://github.com/FarzanaMahamudRini1/IGT-Game-Performance-Analysis-Dashboard)
 
 
 ---
